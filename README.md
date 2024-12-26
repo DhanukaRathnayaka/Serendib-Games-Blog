@@ -16,7 +16,7 @@ A cloud-based blog about games with a user-friendly interface, powered by Fireba
   - CSS (Bootstrap for styling and responsiveness)
 - **Backend:** Firebase (for authentication)
 - **Chatbot:** Integrated with a real-time trained chatbot API or custom model.
-- **Hosting:** Vercel (for deploying the blog)
+- **Hosting:** Vercel (for deploying the blog) 
 
 ## Setup Instructions
 
